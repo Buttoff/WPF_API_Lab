@@ -1,0 +1,7 @@
+C:\Users\Student\Desktop\g\Calculator.API\Calculator.API\obj\Debug\net8.0\Calculator.API.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\g\Calculator.API\Calculator.API\obj\Debug\net8.0\Calculator.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\g\Calculator.API\Calculator.API\obj\Debug\net8.0\Calculator.API.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\g\Calculator.API\Calculator.API\obj\Debug\net8.0\Calculator.API.AssemblyInfo.cs
+C:\Users\Student\Desktop\g\Calculator.API\Calculator.API\obj\Debug\net8.0\Calculator.API.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\g\Calculator.API\Calculator.API\obj\Debug\net8.0\Calculator.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Student\Desktop\g\Calculator.API\Calculator.API\obj\Debug\net8.0\Calculator.API.MvcApplicationPartsAssemblyInfo.cache

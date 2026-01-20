@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\g\WpfHistoryApp\bin\Debug\WpfHistoryApp.exe.config
+C:\Users\Student\Desktop\g\WpfHistoryApp\bin\Debug\WpfHistoryApp.exe
+C:\Users\Student\Desktop\g\WpfHistoryApp\bin\Debug\WpfHistoryApp.pdb
+C:\Users\Student\Desktop\g\WpfHistoryApp\obj\Debug\WpfHistoryApp.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\g\WpfHistoryApp\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\g\WpfHistoryApp\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\g\WpfHistoryApp\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\g\WpfHistoryApp\obj\Debug\WpfHistoryApp_MarkupCompile.cache
+C:\Users\Student\Desktop\g\WpfHistoryApp\obj\Debug\WpfHistoryApp.g.resources
+C:\Users\Student\Desktop\g\WpfHistoryApp\obj\Debug\WpfHistoryApp.Properties.Resources.resources
+C:\Users\Student\Desktop\g\WpfHistoryApp\obj\Debug\WpfHistoryApp.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\g\WpfHistoryApp\obj\Debug\WpfHistoryApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\g\WpfHistoryApp\obj\Debug\WpfHistoryApp.exe
+C:\Users\Student\Desktop\g\WpfHistoryApp\obj\Debug\WpfHistoryApp.pdb
